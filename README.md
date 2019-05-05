@@ -23,6 +23,16 @@ https://mirrors.huaweicloud.com/
 * 重庆大学开源软件镜像站
 https://mirrors.cqu.edu.cn/
 
+### Others
+
+看到的别人搜集好的镜像汇总
+
+* [2016年国内开源镜像站点汇总](https://www.cnblogs.com/jtlgb/p/5702713.html)
+
+*  [2016年国内开源镜像站点汇总](https://www.cnblogs.com/codefly/p/6536627.html)
+
+
+
 
 
 ### License
