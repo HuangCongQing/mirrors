@@ -27,7 +27,8 @@ https://mirrors.cqu.edu.cn/
 https://pypi.doubanio.com/
 
 用豆瓣源安装多个python包(含tensorflow2.0
-`pip install numpy pandas matplotlib sklearn tensorflow==2.0.0-alpha0 -i`
+
+`pip install numpy pandas matplotlib sklearn tensorflow==2.0.0-alpha0 -i https://pypi.doubanio.com/simple/`
 
 ### Others
 
