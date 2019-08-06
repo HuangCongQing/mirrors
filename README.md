@@ -23,6 +23,12 @@ https://mirrors.huaweicloud.com/
 * 重庆大学开源软件镜像站
 https://mirrors.cqu.edu.cn/
 
+* 豆瓣
+https://pypi.doubanio.com/
+
+用豆瓣源安装多个python包(含tensorflow2.0
+`pip install numpy pandas matplotlib sklearn tensorflow==2.0.0-alpha0 -i`
+
 ### Others
 
 看到的别人搜集好的镜像汇总
